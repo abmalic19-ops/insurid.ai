@@ -1,3 +1,11 @@
+/*
+ * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
+ * INSURID™ — Proprietary and Confidential.
+ *
+ * This source code is part of the INSURID system.
+ * Unauthorized copying, modification, distribution, or use is strictly prohibited.
+ * No license is granted unless explicitly stated in writing.
+ */
 # INSURID
 
 **A Responsible AI Clarity Layer for Insurance Claims (Pre-Submission)**  
