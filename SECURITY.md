@@ -2,7 +2,7 @@
 
 Author/Owner: Abdul AB (Abdulrehman Ali)  
 Project: INSURID — Responsible AI Systems for Insurance Claim pre-submission clarity  
-Date: ____________
+Date: 25-11-2025
 
 ## 1) Source of truth links
 - GitHub repo URL: ______________________________
