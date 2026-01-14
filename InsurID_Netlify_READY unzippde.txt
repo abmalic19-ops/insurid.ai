@@ -1,9 +1,51 @@
-PK    ºˆ’[ˆÈ»2  Ã  
-   index.htmlEQ1n1ìyÅâºç“‰"
-I”ÒØ›œ…Ï¶ìt_ˆòC^ûŽ$WÞ™±Ëáêy¹{ß®¡¦ÆTƒ20Â~r†–å
-U
- ÊI€¬EˆHœ½ì§Šÿ‘
-rvÒxö.é,¡MÐ³VTs…'-qÚ]î@[MZ˜i”Â ŸÏîY¯DšVa³‚ëå–Fè&ŸAS[= C¶ h8‹ÔŒ5bÚZ ü¸uf2Æ,[}†rïTÛQ•>4"FÎ²K¡-–'iVÏ×'ÞüÖôÕbs½|ywÆ€*¹O a%f•äNöîÀ GŽZ0~Ã=<½n'eáoû#‘³à¬4Z8KÁGÛ?ŽqB¡Ž&¬Z§§
-°ð¾,zZg»H¾sœ>G²×}ÙPK    ºˆ’[Ô,JÏÿ   ™  	   style.cssMPÑnƒ0|ç+"ñ²IÍäBË&xÚ§âo!AI˜`Sÿ}	jUòäœÏwg½“û+SÎF®ÄDfkÙ§'aN,x@OªKŒ^ßÚ»ÅÊ–²(<×^HB_ÎõU¢>±TÕ{**¨Å¥ÎÅp­›ËkVœq¾e¥Ú_F$…Ùˆä¨®†´åq
--’4ú-!’ÚøR&ðØ‘ô˜3ÀÏ˜IxM¶eÐ·â-Oˆ”Öï[F\#ß=ž·¢_btv'ÌBJ²:ÉUóÊ*˜÷T½óSrë,>ÿ<o¿¤œÍu8P	€MÿqÜ ºÇ¡ýbò¸‹™2;zDú PK    ºˆ’[ˆÈ»2  Ã  
-           ¤    index.htmlPK    ºˆ’[Ô,JÏÿ   ™  	           ¤Z  style.cssPK      o   €    
+# INSURID
+
+**A Responsible AI Clarity Layer for Insurance Claims (Pre-Submission)**  
+Explainability â€¢ Auditability â€¢ Trust  
+
+**INSURID explains. Humans decide.**
+
+---
+
+## Legal Positioning
+
+INSURID does NOT make decisions.
+
+INSURID will NEVER:
+- Approve or reject claims
+- Predict outcomes
+- Score users
+- Recommend actions
+- Replace humans
+- Automate underwriting or regulatory decisions
+
+INSURID WILL:
+- Clarify
+- Structure
+- Document
+- Log
+- Explain
+- Stop before decisions
+
+All decisions remain the responsibility of licensed professionals.
+
+---
+
+## Architecture Boundary
+
+Public View:
+Pre-submission clarity only.
+
+Internal Professional View (Role-Gated):
+Indicators, document integrity signals, timestamps, structured summaries.
+
+These internal mechanisms are confidential and never exposed publicly.
+
+---
+
+## Ownership
+
+Â© 2026 Abdul Rehman (Abdul AB)  
+Founder & CEO â€” INSURID
+
+This system is proprietary and confidential.
