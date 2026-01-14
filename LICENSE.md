@@ -44,4 +44,4 @@ of ownership or rights.
 
 Signed: Abdul Rehman (Abdul AB)  
 Role: Founder & CEO — INSURID  
-Date: 14-01-2025
+Date: 25-11-2025
