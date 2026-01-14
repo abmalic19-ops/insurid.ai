@@ -1,68 +1,47 @@
 # Proof of Authorship & Control — INSURID
 
-Author / Owner:
-Abdul Rehman (Abdul AB)
-
-Project:
-INSURID — Responsible AI Systems for Insurance Claim Pre-Submission Clarity  
-Explainability • Auditability • Trust  
-INSURID explains. Humans decide.
-
-Date:
-2025-11-25
-| 2025–2026 | INSURID system architecture designed | Repository commits |
-
+Author / Owner: Abdul Rehman (Abdul AB)  
+Project: INSURID — Responsible AI Systems for Insurance Claim Pre-Submission Clarity  
+Start Date: 2025-11-25  
 
 ---
 
-## 1. Source of Truth
-
-Primary GitHub Repository:
-https://github.com/abmalic19-ops/insurid.ai
-
-Primary Domains:
-- https://insurid.us
-- https://insurid.ai
-
-Deployment Platform:
-Netlify (controlled by repository owner)
+## 1) Source of Truth Links
+- GitHub Repository: https://github.com/abmalic19-ops/insurid.ai
+- Primary Domains: insurid.us (and/or insurid.ai)
+- Deployment Host: Netlify
 
 ---
 
-## 2. Control Evidence (Non-Public)
-
-The following assets are controlled exclusively by the author:
-
-- GitHub repository ownership and admin access
-- Commit history and signed commits
-- Repository security settings and audit logs
-- Deployment configuration (Netlify)
-- Domain registrations and DNS control
-- Licensing and legal documentation
-
-Sensitive credentials are intentionally not disclosed publicly.
+## 2) Control Evidence Checklist
+Attach screenshots or exports showing:
+- GitHub repository ownership
+- Repository visibility & collaborators
+- GitHub audit log (if available)
+- Netlify / hosting ownership
+- Domain registrar ownership
+- Deployment logs
 
 ---
 
-## 3. Timeline of Key Events
+## 3) Timeline of Key Events
 
 | Date | Event | Evidence |
-|-----|------|---------|
-| 2025–2026 | INSURID system architecture designed | Repository commits |
-| 2026-01-14 | Proprietary license added | LICENSE.md commit |
-| 2026-01-14 | Legal framework established | LEGAL folder |
-| 2026-01-14 | Public doctrine locked | README.md |
+|------|-------|----------|
+| 2025-11-25 | Project initiated | Internal record |
+| — | Repo created | GitHub |
+| — | License added | Commit |
+| — | Security file added | Commit |
+| — | Deployment | Netlify |
 
 ---
 
-## 4. Declaration
+## 4) Declaration
 
-I, Abdul Rehman (Abdul AB), declare that I am the sole author, owner, and controller
-of INSURID and all associated intellectual property contained in this repository.
+I, Abdul Rehman (Abdul AB), declare that I am the sole author and controller of INSURID
+and all related assets listed above. Any access granted does not imply transfer
+of ownership or rights.
 
-Any access granted to third parties does not transfer ownership and may be revoked
-at any time unless explicitly agreed in writing.
-
-Signed:
-Abdul Rehman (Abdul AB)  
-Founder & CEO — INSURID
+Signed: Abdul Rehman (Abdul AB)  
+Role: Founder & CEO — INSURID  
+Date: 14-01-2026
