@@ -1,25 +1,47 @@
-INSURID PROPRIETARY LICENSE
-© 2026 Abdul Rehman (Abdul AB). All Rights Reserved.
+# Proof of Authorship & Control — INSURID
 
-This repository, including all source code, logic, workflows, system design,
-documentation, and related materials (the “Software”), is the exclusive
-property of Abdul Rehman (Abdul AB), Founder & CEO of INSURID.
+Author / Owner: Abdul Rehman (Abdul AB)  
+Project: INSURID — Responsible AI Systems for Insurance Claim Pre-Submission Clarity  
+Start Date: 2025-11-25  
 
-This Software is proprietary and confidential.
+---
 
-No permission is granted to use, copy, modify, distribute, sublicense, sell,
-reverse engineer, reproduce, benchmark, train AI models on, or create
-derivative works from this Software without explicit written authorization.
+## 1) Source of Truth Links
+- GitHub Repository: https://github.com/abmalic19-ops/insurid.ai
+- Primary Domains: insurid.us (and/or insurid.ai)
+- Deployment Host: Netlify
 
-Any unauthorized use constitutes intellectual property infringement.
+---
 
-Provided “as is” without warranties of any kind.
+## 2) Control Evidence Checklist
+Attach screenshots or exports showing:
+- GitHub repository ownership
+- Repository visibility & collaborators
+- GitHub audit log (if available)
+- Netlify / hosting ownership
+- Domain registrar ownership
+- Deployment logs
 
-Owner:
-Abdul Rehman (Abdul AB)
-Founder & CEO — INSURID
+---
 
-Contact:
-abmalic19@gmail.com
-abdulab@insurid.us
-support@insurid.us
+## 3) Timeline of Key Events
+
+| Date | Event | Evidence |
+|------|-------|----------|
+| 2025-11-25 | Project initiated | Internal record |
+| — | Repo created | GitHub |
+| — | License added | Commit |
+| — | Security file added | Commit |
+| — | Deployment | Netlify |
+
+---
+
+## 4) Declaration
+
+I, Abdul Rehman (Abdul AB), declare that I am the sole author and controller of INSURID
+and all related assets listed above. Any access granted does not imply transfer
+of ownership or rights.
+
+Signed: Abdul Rehman (Abdul AB)  
+Role: Founder & CEO — INSURID  
+Date: __________
