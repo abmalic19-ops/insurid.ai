@@ -32,7 +32,7 @@ INSURID WILL:
 - Explain
 - Stop before decisions
 
-All decisions remain the responsibility of licensed professionals.
+All decisions remain the responsibility of licensed professionals & service provider
 
 ---
 
@@ -47,6 +47,12 @@ Indicators, document integrity signals, timestamps, structured summaries.
 These internal mechanisms are confidential and never exposed publicly.
 
 ---
+## Founder Responsibility Note
+As Founder of INSURID, I accept responsibility for ensuring that the platform operates within its declared
+technical and regulatory scope, including data integrity, security controls, and auditability. INSURID is
+designed to increase clarity without transferring decision authority.
+INSURID explains. Humans decide.
+Founder: Abdul AB
 
 ## Ownership
 
@@ -64,20 +70,13 @@ INSURID does not make decisions, predictions, recommendations, or approvals.
 All outputs are informational only.
 All final decisions remain the responsibility of licensed professionals.
 
-Use of this system does not create any professional, fiduciary, or advisory relationship.
-
 © 2025–2026 Abdul Rehman (Abdul AB). All rights reserved.
 # Disclaimer
-
 INSURID is a pre-submission clarity and documentation system.
-
 INSURID does not provide legal, insurance, underwriting, or regulatory advice.
 INSURID does not make decisions, predictions, recommendations, or approvals.
-
 All outputs are informational only.
 All final decisions remain the responsibility of licensed professionals.
-
 Use of this system does not create any professional, fiduciary, or advisory relationship.
-
 © 2025–2026 Abdul Rehman (Abdul AB). All rights reserved.
 
