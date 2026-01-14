@@ -27,4 +27,4 @@ Attach screenshots or exports showing:
 
 ## 4) Declaration
 I, Abdul AB, declare I am the author and controller of INSURID and related assets listed above, and that any access granted to third parties must be documented by written agreement.
-Signature: ____________________
+Signature: ABDULREHMAN ALI (AB)
