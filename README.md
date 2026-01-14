@@ -4,7 +4,6 @@
  * This source code is part of the INSURID system.
  * Unauthorized copying, modification, distribution, or use is strictly prohibited.
  * No license is granted unless explicitly stated in writing.
- */
 # INSURID
 
 **A Responsible AI Clarity Layer for Insurance Claims (Pre-Submission)**  
