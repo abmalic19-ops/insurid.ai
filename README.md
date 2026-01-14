@@ -31,12 +31,9 @@ All decisions remain the responsibility of licensed professionals & service prov
 ---
 
 ## Architecture Boundary
-Public View:
+
 Pre-submission clarity only.
 Internal Professional View (Role-Gated):
-Indicators, document integrity signals, timestamps, structured summaries.
-These internal mechanisms are confidential and never exposed publicly.
-
 ---
 ## Founder Responsibility Note
 As Founder of INSURID, I accept responsibility for ensuring that the platform operates within its declared
