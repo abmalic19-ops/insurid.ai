@@ -49,3 +49,30 @@ These internal mechanisms are confidential and never exposed publicly.
 Founder & CEO — INSURID
 
 This system is proprietary and confidential.
+# Disclaimer
+
+INSURID is a pre-submission clarity and documentation system.
+
+INSURID does not provide legal, insurance, underwriting, or regulatory advice.
+INSURID does not make decisions, predictions, recommendations, or approvals.
+
+All outputs are informational only.
+All final decisions remain the responsibility of licensed professionals.
+
+Use of this system does not create any professional, fiduciary, or advisory relationship.
+
+© 2025–2026 Abdul Rehman (Abdul AB). All rights reserved.
+# Disclaimer
+
+INSURID is a pre-submission clarity and documentation system.
+
+INSURID does not provide legal, insurance, underwriting, or regulatory advice.
+INSURID does not make decisions, predictions, recommendations, or approvals.
+
+All outputs are informational only.
+All final decisions remain the responsibility of licensed professionals.
+
+Use of this system does not create any professional, fiduciary, or advisory relationship.
+
+© 2025–2026 Abdul Rehman (Abdul AB). All rights reserved.
+
