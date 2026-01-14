@@ -1,0 +1,83 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f6f7f9;
+  color: #111;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: #ffffff;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo {
+  width: 80px;
+  margin-bottom: 16px;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  margin: 8px 0;
+}
+
+.doctrine {
+  font-weight: bold;
+  color: #2a5cff;
+}
+
+.block {
+  max-width: 800px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.block h2 {
+  margin-top: 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.danger li {
+  color: #b00020;
+}
+
+.note {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.output {
+  margin-top: 16px;
+  padding: 12px;
+  background: #f0f0f0;
+  border-radius: 6px;
+}
+
+.preview {
+  background: #fafafa;
+  border: 2px dashed #ccc;
+}
+
+.watermark {
+  font-size: 0.8rem;
+  color: #999;
+}
+
+footer {
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.footer-note {
+  font-size: 0.8rem;
+  margin-top: 8px;
+}
