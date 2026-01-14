@@ -1,5 +1,5 @@
-
- * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
+Add code-level proprietary headers
+  * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
  * INSURID™ — Proprietary and Confidential.
  *
  * This source code is part of the INSURID system.
