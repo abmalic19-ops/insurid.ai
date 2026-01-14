@@ -1,5 +1,4 @@
-/*
- * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
+© 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
  * INSURID™ — Proprietary and Confidential.
  *
  * This source code is part of the INSURID system.
