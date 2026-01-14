@@ -45,7 +45,7 @@ These internal mechanisms are confidential and never exposed publicly.
 
 ## Ownership
 
-© 2026 Abdul Rehman (Abdul AB)  
+© 2025-2026 Abdul Rehman (Abdul AB)  
 Founder & CEO — INSURID
 
 This system is proprietary and confidential.
