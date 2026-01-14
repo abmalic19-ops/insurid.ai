@@ -1,7 +1,51 @@
-INSURID-WEB_____________insurid.us
-INSURID-Responsible AI(clarity layer)
-It helps users to understand insurance Policies in simple human language.
-No decisions.Only clarity.
-While final decisons will be consider by licensed human Authorities.
-INSURID is  & Explainable AI.
-Controled,Auditable & Human in a loop.
+# INSURID
+
+**A Responsible AI Clarity Layer for Insurance Claims (Pre-Submission)**  
+Explainability • Auditability • Trust  
+
+**INSURID explains. Humans decide.**
+
+---
+
+## Legal Positioning
+
+INSURID does NOT make decisions.
+
+INSURID will NEVER:
+- Approve or reject claims
+- Predict outcomes
+- Score users
+- Recommend actions
+- Replace humans
+- Automate underwriting or regulatory decisions
+
+INSURID WILL:
+- Clarify
+- Structure
+- Document
+- Log
+- Explain
+- Stop before decisions
+
+All decisions remain the responsibility of licensed professionals.
+
+---
+
+## Architecture Boundary
+
+Public View:
+Pre-submission clarity only.
+
+Internal Professional View (Role-Gated):
+Indicators, document integrity signals, timestamps, structured summaries.
+
+These internal mechanisms are confidential and never exposed publicly.
+
+---
+
+## Ownership
+
+© 2026 Abdul Rehman (Abdul AB)  
+Founder & CEO — INSURID
+
+This system is proprietary and confidential.
