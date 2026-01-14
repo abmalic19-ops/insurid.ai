@@ -18,7 +18,8 @@ INSURID will NEVER:
 - Recommend actions
 - Replace humans
 - Automate underwriting or regulatory decisions
-INSURID WILL:
+
+## INSURID WILL:
 - Clarify
 - Structure
 - Document
