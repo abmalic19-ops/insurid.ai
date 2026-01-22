@@ -1,3 +1,4 @@
+# Governance First Pilot Later
 © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
  * INSURID™ — Proprietary and Confidential.
  * This source code is part of the INSURID system.
@@ -41,13 +42,12 @@ technical and regulatory scope, including data integrity, security controls, and
 designed to increase clarity without transferring decision authority.
 INSURID explains. Humans decide.
 Founder: Abdul AB
-
-## Ownership
+## OWNERSHIP
 © 2025-2026 Abdul Rehman (Abdul AB)  
 Founder & CEO — INSURID
 This system is proprietary and confidential.
 
-# Disclaimer
+# DISCLAIMER 
 INSURID is a pre-submission clarity and documentation system.
 INSURID does not provide legal, insurance, underwriting, or regulatory advice.
 INSURID does not make decisions, predictions, recommendations, or approvals.
