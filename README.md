@@ -1,7 +1,10 @@
 ## INSURID — Governance-First AI Research Framework
 
 **Author:** Abdulrehman Ali (Abdul AB)  
-**Role:** Principal Architect — Enterprise Governance & Risk-Controlled Systems  
+**Role:** Author & Custodian —Responsible AI Governance
+Clarity • Audit-ability • Human-in-the-Loop
+Open to institutional collaborations
+INSURID explains_Humans decide
 **Focus:** Human-in-the-Loop AI · Explainability · Compliance-by-Design · governanace alignment
 
 ## Purpose
