@@ -6,14 +6,13 @@ If you discover a vulnerability or security issue, contact:
 support@insurid.us abdulab@insurid.us abmalic@19gmail.com
 
 ## Scope
-INSURID Framwork reduces risk in regulated industries.
-through explainability, auditability, and human oversight before any decision.
+• INSURID Framwork reduces risk in regulated industries.
+• Explainability, auditability, and human oversight before any decision.
 • "Lowers operational and compliance costs through structured, pre-submission clarity."
 • "Reduces customer frustration by identifying gaps before escalation."
-• "Protects institutional reputation through transparency and traceable reasoning."
 • "Prevents regulatory breaches by keeping human authority at the center of every process."
-In short, INSURID reduces pressure - it doesn't create it.
-It strengthens trust between institutions, regulators, and customers alike.
+• In short, INSURID reduces pressure - it doesn't create it.
+• It strengthens trust between institutions, regulators, and customers alike.
 
 
 ## Access
