@@ -17,9 +17,5 @@ support@insurid.us abdulab@insurid.us abmalic@19gmail.com
 
 ## Access
 All professional logic, and internal Logics mechanisms are role-gated and non-public.
-INSURID does not expose internal logic publicly.
- * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
- * INSURID™ — Proprietary.
- * © 2025–2026 Abdul Rehman (Abdul AB). All Rights Reserved.
- * INSURID™ — Proprietary and Confidential.
+
  * This source code is part of the INSURID system.
