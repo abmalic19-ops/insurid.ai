@@ -1,21 +1,22 @@
-# Security Policy — INSURID
-INSURID is a proprietary, controlled-access system.
+# # Security Policy – INSURID
+NSURID — UAE’s First Global Responsible-AI Clarity Layer Framework License v1.0 © 2025-2026 Abdulrehman Ali (AB)
 
-## Reporting
-If you discover a vulnerability or security issue, contact:
-support@insurid.us abdulab@insurid.us abmalic@19gmail.com
+## Report a Vulnerability
+E-mail Abmalic19@gmail.com / abdulab@insurid.ai
+(First reply target: 24 hours.)
+
+## Disclosure Window
+* Critical issues – patch or mitigation within **7 days**.  
+* All other issues – timeline agreed together.
 
 ## Scope
-• INSURID Framwork reduces risk in regulated industries.
-• Explainability, auditability, and human oversight before any decision.
-• "Lowers operational and compliance costs through structured, pre-submission clarity."
-• "Reduces customer frustration by identifying gaps before escalation."
-• "Prevents regulatory breaches by keeping human authority at the center of every process."
-• In short, INSURID reduces pressure - it doesn't create it.
-• It strengthens trust between institutions, regulators, and customers alike.
+✓ Code and config in this repo  
+✗ No production systems or customer data
+before any contractual collaburations.
 
+## Out of Scope
+– Social engineering  
+– Physical security
 
-## Access
-All professional logic, and internal Logics mechanisms are role-gated and non-public.
-
- * This source code is part of the INSURID system.
+## Liability
+Each party is responsible for its own actions.
