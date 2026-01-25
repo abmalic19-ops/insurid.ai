@@ -1,47 +1,19 @@
-# Proof of Authorship & Control — INSURID
+INSURID — UAE’s First Global Responsible-AI Clarity Layer Framework  
+License v1.0  
+© 2025-2026 Abdulrehman Ali (AB)
 
-Author / Owner: Abdul Rehman (Abdul AB)  
-Project: INSURID — Responsible AI Systems for Insurance Claim Pre-Submission Clarity  
-Start Date: 2025-11-25  
+Permission  
+• You may read and share this code for review, feedback, or to explore contractual collaboration.
 
----
+Restrictions  
+1. Do **not** deploy it in any live or production environment.  
+   – Any commercial or production use requires written consent from **both** Abdulrehman Ali (AB) and an authorised institutional partner.  
+2. Do **not** use it to approve, reject, rank, or price insurance claims.
 
-## 1) Source of Truth Links
-- GitHub Repository: https://github.com/abmalic19-ops/insurid.ai
-- Primary Domains: insurid.us (and/or insurid.ai)
-- Deployment Host: Netlify
+Scope of Functionality  
+• Provides data accuracy, transparency, and policy-aligned explanations.  
+• Generates explainable-events audit logs.  
+• Uses role-gated access for customers and licensed professionals.  
 
----
-
-## 2) Control Evidence Checklist
-Attach screenshots or exports showing:
-- GitHub repository ownership
-- Repository visibility & collaborators
-- GitHub audit log (if available)
-- Netlify / hosting ownership
-- Domain registrar ownership
-- Deployment logs
-
----
-
-## 3) Timeline of Key Events
-
-| Date | Event | Evidence |
-|------|-------|----------|
-| 2025-11-25 | Project initiated | Internal record |
-| — | Repo created | GitHub |
-| — | License added | Commit |
-| — | Security file added | Commit |
-| — | Deployment | Netlify |
-
----
-
-## 4) Declaration
-
-I, Abdul Rehman (Abdul AB), declare that I am the sole author and controller of INSURID
-and all related assets listed above. Any access granted does not imply transfer
-of ownership or rights.
-
-Signed: Abdul Rehman (Abdul AB)  
-Role: Founder & CEO — INSURID  
-Date: 25-11-2025
+Liability  
+Each party is solely responsible for its own actions and decisions.
